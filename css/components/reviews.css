@@ -1,1 +1,11 @@
-.reviews{background-color:var(--gray-bg)}.reviews__title{font-size:36px;text-align:left}.reviews__widget{max-width:600px;width:100%}
+.reviews {
+  background-color: var(--gray-bg);
+}
+.reviews__title {
+  font-size: 36px;
+  text-align: left;
+}
+.reviews__widget {
+  max-width: 600px;
+  width: 100%;
+}
