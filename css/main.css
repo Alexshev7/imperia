@@ -1344,6 +1344,17 @@ span.message-success {
   color: var(--yellow-color);
 }
 
+.author__link {
+  color: var(--light-color);
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.author__link:hover {
+  color: var(--yellow-color);
+}
+
 .projects {
   background-color: var(--gray-bg);
 }
@@ -1583,8 +1594,7 @@ span.message-success {
 }
 
 .banners__item--accept {
-  background-image: url("../../img/main/about/img-1.jpg");
-  /* stylelint-disable-next-line declaration-block-no-duplicate-properties */
+  background-image: url("../img/main/about/img-1.jpg");
   background-image: -webkit-image-set("../../img/main/about/img-1.avif" type("image/avif"), "../../img/main/about/img-1.webp" type("image/webp"), "../../img/main/about/img-1.jpg" type("image/jpg"));
   background-image: image-set("../../img/main/about/img-1.avif" type("image/avif"), "../../img/main/about/img-1.webp" type("image/webp"), "../../img/main/about/img-1.jpg" type("image/jpg"));
   max-width: 273px;
@@ -1603,8 +1613,7 @@ span.message-success {
 }
 
 .banners__item--repair {
-  background-image: url("../../img/main/about/img-2.jpg");
-  /* stylelint-disable-next-line declaration-block-no-duplicate-properties */
+  background-image: url("../img/main/about/img-2.jpg");
   background-image: -webkit-image-set("../../img/main/about/img-2.avif" type("image/avif"), "../../img/main/about/img-2.webp" type("image/webp"), "../../img/main/about/img-2.jpg" type("image/jpg"));
   background-image: image-set("../../img/main/about/img-2.avif" type("image/avif"), "../../img/main/about/img-2.webp" type("image/webp"), "../../img/main/about/img-2.jpg" type("image/jpg"));
   max-width: 570px;
@@ -1615,8 +1624,7 @@ span.message-success {
 }
 
 .banners__item--design {
-  background-image: url("../../img/main/about/img-4.jpg");
-  /* stylelint-disable-next-line declaration-block-no-duplicate-properties */
+  background-image: url("../img/main/about/img-4.jpg");
   background-image: -webkit-image-set("../../img/main/about/img-4.avif" type("image/avif"), "../../img/main/about/img-4.webp" type("image/webp"), "../../img/main/about/img-4.jpg" type("image/jpg"));
   background-image: image-set("../../img/main/about/img-4.avif" type("image/avif"), "../../img/main/about/img-4.webp" type("image/webp"), "../../img/main/about/img-4.jpg" type("image/jpg"));
   max-width: 570px;
@@ -1627,8 +1635,7 @@ span.message-success {
 }
 
 .banners__item--delivery {
-  background-image: url("../../img/main/about/img-3.jpg");
-  /* stylelint-disable-next-line declaration-block-no-duplicate-properties */
+  background-image: url("../img/main/about/img-3.jpg");
   background-image: -webkit-image-set("../../img/main/about/img-3.avif" type("image/avif"), "../../img/main/about/img-3.webp" type("image/webp"), "../../img/main/about/img-3.jpg" type("image/jpg"));
   background-image: image-set("../../img/main/about/img-3.avif" type("image/avif"), "../../img/main/about/img-3.webp" type("image/webp"), "../../img/main/about/img-3.jpg" type("image/jpg"));
   max-width: 273px;
