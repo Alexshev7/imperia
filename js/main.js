@@ -576,7 +576,7 @@
               },
               {
                 iconLayout: 'default#image',
-                iconImageHref: '../img/marker.png',
+                iconImageHref: './img/marker.png',
                 iconImageSize: [60, 60],
                 iconImageOffset: [-40, -50],
               }
