@@ -1595,8 +1595,8 @@ span.message-success {
 
 .banners__item--accept {
   background-image: url("../img/main/about/img-1.jpg");
-  background-image: -webkit-image-set("../../img/main/about/img-1.avif" type("image/avif"), "../../img/main/about/img-1.webp" type("image/webp"), "../../img/main/about/img-1.jpg" type("image/jpg"));
-  background-image: image-set("../../img/main/about/img-1.avif" type("image/avif"), "../../img/main/about/img-1.webp" type("image/webp"), "../../img/main/about/img-1.jpg" type("image/jpg"));
+  background-image: -webkit-image-set("../img/main/about/img-1.avif" type("image/avif"), "../img/main/about/img-1.webp" type("image/webp"), "../img/main/about/img-1.jpg" type("image/jpg"));
+  background-image: image-set("../img/main/about/img-1.avif" type("image/avif"), "../img/main/about/img-1.webp" type("image/webp"), "../img/main/about/img-1.jpg" type("image/jpg"));
   max-width: 273px;
   width: 100%;
   height: 198px;
@@ -1614,8 +1614,8 @@ span.message-success {
 
 .banners__item--repair {
   background-image: url("../img/main/about/img-2.jpg");
-  background-image: -webkit-image-set("../../img/main/about/img-2.avif" type("image/avif"), "../../img/main/about/img-2.webp" type("image/webp"), "../../img/main/about/img-2.jpg" type("image/jpg"));
-  background-image: image-set("../../img/main/about/img-2.avif" type("image/avif"), "../../img/main/about/img-2.webp" type("image/webp"), "../../img/main/about/img-2.jpg" type("image/jpg"));
+  background-image: -webkit-image-set("../img/main/about/img-2.avif" type("image/avif"), "../img/main/about/img-2.webp" type("image/webp"), "../img/main/about/img-2.jpg" type("image/jpg"));
+  background-image: image-set("../img/main/about/img-2.avif" type("image/avif"), "../img/main/about/img-2.webp" type("image/webp"), "../img/main/about/img-2.jpg" type("image/jpg"));
   max-width: 570px;
   width: 100%;
   height: 198px;
@@ -1625,8 +1625,8 @@ span.message-success {
 
 .banners__item--design {
   background-image: url("../img/main/about/img-4.jpg");
-  background-image: -webkit-image-set("../../img/main/about/img-4.avif" type("image/avif"), "../../img/main/about/img-4.webp" type("image/webp"), "../../img/main/about/img-4.jpg" type("image/jpg"));
-  background-image: image-set("../../img/main/about/img-4.avif" type("image/avif"), "../../img/main/about/img-4.webp" type("image/webp"), "../../img/main/about/img-4.jpg" type("image/jpg"));
+  background-image: -webkit-image-set("../img/main/about/img-4.avif" type("image/avif"), "../img/main/about/img-4.webp" type("image/webp"), "../img/main/about/img-4.jpg" type("image/jpg"));
+  background-image: image-set("../img/main/about/img-4.avif" type("image/avif"), "../img/main/about/img-4.webp" type("image/webp"), "../img/main/about/img-4.jpg" type("image/jpg"));
   max-width: 570px;
   width: 100%;
   height: 198px;
@@ -1636,8 +1636,8 @@ span.message-success {
 
 .banners__item--delivery {
   background-image: url("../img/main/about/img-3.jpg");
-  background-image: -webkit-image-set("../../img/main/about/img-3.avif" type("image/avif"), "../../img/main/about/img-3.webp" type("image/webp"), "../../img/main/about/img-3.jpg" type("image/jpg"));
-  background-image: image-set("../../img/main/about/img-3.avif" type("image/avif"), "../../img/main/about/img-3.webp" type("image/webp"), "../../img/main/about/img-3.jpg" type("image/jpg"));
+  background-image: -webkit-image-set("../img/main/about/img-3.avif" type("image/avif"), "../img/main/about/img-3.webp" type("image/webp"), "../img/main/about/img-3.jpg" type("image/jpg"));
+  background-image: image-set("../img/main/about/img-3.avif" type("image/avif"), "../img/main/about/img-3.webp" type("image/webp"), "../img/main/about/img-3.jpg" type("image/jpg"));
   max-width: 273px;
   width: 100%;
   height: 198px;
